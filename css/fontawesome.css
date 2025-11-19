@@ -140,6 +140,9 @@
 .icon-github:before {
   content: '\f09b';
 }
+.icon-youtube:before {
+  content: '\f167';
+}
 .sidebar-toc-btn:before {
   font-family: var(--font-icon);
   content: '\f0e8';
